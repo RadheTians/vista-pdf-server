@@ -1,0 +1,16 @@
+{
+  "name": "vista-pdf-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radhe Raman Tiwari",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "pdf-lib": "^1.17.1",
+    "puppeteer": "^24.0.0"
+  }
+}
